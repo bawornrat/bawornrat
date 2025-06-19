@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [bawornrat.lim@gmail.com](mailto:bawornrat.lim@gmail.com)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm learning TypeScript, C# .NET
 
 ### Skills
 
